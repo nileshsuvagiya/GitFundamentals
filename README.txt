@@ -5,4 +5,4 @@ git log
 git pull
 git fetch
 git push
-
+git tag
